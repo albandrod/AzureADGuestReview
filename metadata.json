@@ -4,6 +4,6 @@
     "itemDisplayName": "Azure AD guest review solution",
     "description": "Template to deploy the Azure AD guest review solution in your tenant.",
     "summary": "Template to deploy the Azure AD guest review solution in your tenant.",
-    "githubUsername": "nicolonsky",
+    "githubUsername": "albandrod",
     "dateUpdated": "2020-10-07"
   }
